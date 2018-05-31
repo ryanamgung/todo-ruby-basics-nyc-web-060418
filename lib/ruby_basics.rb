@@ -4,18 +4,19 @@ end
 
 def assign_variable(value)
   var = value
+  var
 end
 
-def argue
-  
+def argue(arguement)
+  arguement
 end
 
-def greeting
+def greeting(greeting, name)
 
 end
 
 def return_a_value
-
+puts "Nice"
 end
 
 def last_evaluated_value
